@@ -39,7 +39,7 @@ achieving lower RMSE and higher R² score compared to baseline models.
 
 ## 📁 Files Included
 - `AI_ML_Task3_Model_Validation_Tuning.ipynb` – Complete notebook with validation and tuning
-- `Task 3 Report.pdf` – Detailed report explaining methodology and results.
+- `Task 3 Report.pdf` – Detailed report explaining methodology and results
 
 ---
 
